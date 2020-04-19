@@ -1,0 +1,7 @@
+{
+    "name": "juanda/account_class",
+    "description": "Pruebas",
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}
